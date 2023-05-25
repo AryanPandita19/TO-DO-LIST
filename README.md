@@ -1,2 +1,2 @@
 # TO-DO-LIST
-Its an TO DO LIST
+Its a TO DO LIST
